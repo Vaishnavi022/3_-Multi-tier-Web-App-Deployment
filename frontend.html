@@ -1,0 +1,18 @@
+<h1>My AWS 3-Tier App 🚀</h1>
+
+<button onclick="addData()">Add Data</button>
+<button onclick="viewData()">View Data</button>
+
+<script>
+function addData() {
+    fetch("http://<LOAD-BALANCER-DNS>/add")
+        .then(res => res.text())
+        .then(data => alert(data));
+}
+
+function viewData() {
+    fetch("http://<LOAD-BALANCER-DNS>/view")
+        .then(res => res.text())
+        .then(data => alert(data));
+}
+</script>
