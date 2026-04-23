@@ -157,19 +157,19 @@ function viewData() {
 
 ### 🔹 Frontend UI
 
-![Frontend](1_frontend-ui.png)
+![Frontend](images/1_frontend-ui.png)
 
 ### 🔹 Backend Running
 
-![Backend](2_backend-running.png)
+![Backend](images/2_backend-running.png)
 
 ### 🔹 Database Connected
 
-![Database](3_db-connected.png)
+![Database](images/3_db-connected.png)
 
 ### 🔹 Data Inserted
 
-![Insert](4_data-inserted.png)
+![Insert](images/4_data-inserted.png)
 
 ---
 
@@ -177,7 +177,7 @@ function viewData() {
 
 👉 This is the final working system output:
 
-![Final Output](5_final-output.png)
+![Final Output](images/5_final-output.png)
 
 ✔ Data is successfully:
 
